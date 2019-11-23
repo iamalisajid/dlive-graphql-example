@@ -1,6 +1,7 @@
 # dlive-graphql-example
-Basic app to connect to DLive graphql and websockets https://dlive.tv/
-Replace `CLIENT_ID`, `API_KEY` & `channelname` in queries to get the app working.
+Basic app to connect to DLive graphql and websockets https://dlive.tv/ . 
+Replace `CLIENT_ID`, `API_KEY` & `channelname` in queries to get the app working. 
+Can be used for discord bots.
 
 # Features!
 
