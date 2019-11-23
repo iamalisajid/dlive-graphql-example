@@ -1,0 +1,16 @@
+{
+    "name": "dlive-graphql-socket-example",
+    "version": "0.0.1",
+    "description": "Dlive Socket App",
+    "scripts": {
+        "lint": "eslint"
+    },
+    "dependencies": {
+        "axios": "^0.19.0",
+        "querystring": "^0.2.0",
+        "ws": "^7.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.6.0"
+    }
+}
